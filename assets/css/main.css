@@ -45,6 +45,7 @@ ol, ul {
 }
 ul li a { text-decoration: none;
 	color: brown;
+	font-weight: bold;
 }
 
 blockquote, q {
