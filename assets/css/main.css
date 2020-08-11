@@ -38,6 +38,7 @@ body {
 ul li { 
 	list-style: none;
 	display: inline-block;
+	background-color: brown;
 }
 
 ol, ul {
