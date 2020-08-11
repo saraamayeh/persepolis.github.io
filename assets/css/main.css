@@ -37,9 +37,9 @@ body {
 
 ol, ul {
 	list-style: none;
+	display: inline-block;
 }
-ul li a { text-decoration: none;
-	  display: inline-block; 
+ul li a { text-decoration: none; 
 }
 
 blockquote, q {
